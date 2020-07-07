@@ -1,0 +1,2 @@
+# Exploring-Hacker-News
+Hacker News is a site where individuals may post things to the community (i.e. questions, projects, etc.) and receive feedback. Similar to Reddit, the site is very popular amongst technology and start up circles. In this project, I will be exploring a data set from Kaggle containing information on Hacker News posts and practice drawing insights and conclusions based on the available data.
